@@ -1,8 +1,0 @@
-Flask_Cors==3.0.7
-requests==2.21.0
-Werkzeug==0.15.2
-Flask_Bcrypt==0.7.1
-Flask==1.0.2
-Flask_JWT_Extended==3.24.0
-PyJWT==1.7.1
-pymongo==3.9.0
