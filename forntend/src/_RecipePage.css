@@ -1,0 +1,255 @@
+.Mcontainer{
+    width:100%;
+
+    /* height: 50rem; */
+    display: inline-block;
+}
+.Scontainer{
+    max-width:1200px;
+    margin: auto
+}   
+.section1{
+    max-width:1330;
+    box-shadow: 0 6px 7px 0 rgba(0,0,0,0.13);
+    margin:auto;
+    margin-top: 5rem;
+    min-height: 300px;
+    border-radius: 5px;
+    border:#DDDDDD 1px solid;
+    padding:1rem
+}
+.section2{
+    max-width:650px;
+    display: inline-block;
+    box-shadow: 0 6px 7px 0 rgba(0,0,0,0.13);
+    margin:auto;
+    margin-top: 2rem;
+    min-height: 200px;
+    border-radius: 5px;
+    border:#DDDDDD 1px solid;
+    padding: 2rem;
+}
+.section21{
+    max-width:650px;
+    display: inline-block;
+    box-shadow: 0 6px 7px 0 rgba(0,0,0,0.13);
+    margin:auto;
+    margin-top: 2rem;
+    min-height: 200px;
+    border-radius: 5px;
+    border:#DDDDDD 1px solid;
+    padding: 2rem 0 0 0;
+}
+.section3{
+    display: inline-block;
+    max-width: 1330px;
+    margin: auto;
+    margin-top: 5rem;
+    min-height: 200px;
+}
+.gallery{
+    float: left;
+    max-width: 100px;
+    height: 100%;
+    margin: 1rem 0;
+}
+.gimg{
+    width:65px;
+    height:60px
+}
+.Mgallery{
+    display: inline-block;
+    float: left;
+    padding: 0rem 0;
+    margin: 1rem 0;
+}
+.Mdetails{
+    width: 40rem;
+    float: left;
+    margin-left: 2rem;
+    text-align: left;
+    padding:1rem;
+    display: inline-block;
+    box-shadow: 0 12px 19px -14px rgba(0,0,0,0.33);
+    -moz-box-shadow:  0 12px 19px -14px rgba(0,0,0,0.33);
+    -webkit-box-shadow: 0 12px 19px -14px rgba(0,0,0,0.33);
+}
+.dishC{
+    font-family: 'Segoe UI';
+    font-size: 14px;
+    color:#707070
+}
+.dishN{
+    font-family: 'Segoe UI';
+    font-size: 29px;
+    font-weight: bolder;
+    color:#303030;
+}
+.dishch{
+    font-family: 'Segoe UI';
+    font-size: 17px;
+    font-weight: bolder;
+    color:#46B61A;
+}
+.Sdetails{
+    display: inline-flex;
+    border: 1px #DDDDDD solid;
+    border-radius: 5px;
+    margin-top: 2rem;
+    float: left;
+    margin-left: 4rem
+}
+.Dpart{
+    float: left;
+    /* padding: 0.5rem 1rem; */
+    display: inline-block;
+    /* width: 26%; */
+    /* height: 5rem; */
+    padding: 1rem 2rem;
+}
+.dphead{
+    font-family: 'Segoe UI';
+    font-size: 14px;
+    font-weight: bolder;
+    color:#8E8E8E;
+}
+.dpnum{
+    font-family: 'Segoe UI';
+    font-size: 24px;
+    font-weight: bolder;
+    color:#46B61A;
+}
+.dptext{
+    font-family: 'Segoe UI';
+    font-size: 14px;
+    font-weight: bolder;
+    color:#46B61A;
+    margin-top: -.5rem;
+}
+.chefCo1:hover .quick{
+    
+    display: inline-block;
+  }
+  .parDir{
+    font-family: Segoe UI;
+    font-size: 14px;
+    text-align: left;
+    /* margin-left: 5rem; */
+    display: inline-block;
+    width: 80%;
+    margin: 0;
+  }
+  .dir{
+    float: left;
+    padding: 1rem;
+  }
+  .ini{
+    float: left;
+    color: #B3B3B3;
+    padding: 1rem 1.5rem;
+    border: 1px #B3B3B3 solid;
+    border-radius: 94px;
+    display: inline-block;
+}
+.headeri{
+    text-align: left;
+    font-family: Segoe UI;
+    font-size: 17px;
+    font-weight: bolder;
+    color: #303030;
+    margin-left: 1rem;
+    margin: 1.5rem 0;
+}
+.lii{
+    font-family:  Segoe UI;
+    font-size: 14px;
+    color: #303030;
+}
+.header2{
+    font-family: Montserrat;
+    font-size: 24px;
+    font-weight: bolder;
+    color:#46B61A;
+    
+    margin-bottom: 1.5rem;
+}
+.header22{
+    color:#373737
+}
+.cheffCO{
+    display: flex;
+    padding: 1rem 2rem;
+    height: 5rem;
+    border-top:2px solid #F0F0F0;
+}
+.col1{
+    padding: 0 1rem;
+    height: 4rem;
+    margin-top: .5rem;
+}
+.stars{
+    font-family: Montserrat;
+    font-size: 11px;
+    color:#1E1E1E;
+    margin-bottom: 5px;
+    margin-top: .3rem;
+}
+.price{
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: bold;
+    color:#373737;
+    margin-top: 2rem;
+
+}
+.currency{
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 500;
+    color:#6A6A6A
+}
+.chdis{
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: bold;
+    color:#1E1E1E;
+    text-align: right
+}
+.chdis2{
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 500;
+    color:#8E8E8E
+}
+.hire{
+    background: #46B61A;
+    border:none;
+    border-radius: 2px;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 500;
+    color:white;
+    padding: .3rem .3rem;
+    margin-top: 0.3rem;
+
+}
+.chefna{
+    font-family: Montserrat;
+    font-size: 17px;
+    font-weight: bold;
+    color:#1E1E1E
+}
+.rere{
+    display: inline-block;
+    padding:1rem
+}
+.rereimg{
+    width:165px;
+    height: 150px
+}
+.rerename{
+    text-align: left;
+}
+.rerereview{
+    color:#A4A1A1
+}

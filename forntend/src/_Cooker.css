@@ -1,0 +1,95 @@
+.CookerCon{
+padding: 0 2rem
+}
+.CookerCon1{
+    background: #FFFFFF;
+    display: inline-block;
+    margin: .5rem 0;
+    border:1px solid #DBDBDB;
+    border-radius: 5px
+}
+.mainimg{
+    display: inline-block;
+    float: left;
+    width:15.5rem;
+
+}
+.sectors{
+    display: inline-flex;
+    width: 60rem;
+    float: left;
+}
+.sect{
+    display: inline-block;
+    width: 30%;
+    text-align: left;
+    margin: 1.4rem 0;
+    padding: 0 1.4rem;
+    border-right:1px solid #DBDBDB;
+
+}
+.cooker_name{
+    font-family: Montserrat;
+    font-weight: bold;
+    font-size: 21px;
+    color:#2D2D2D;
+    display: inline-block;
+}
+.cooker_dis{
+    font-family: Montserrat;
+    font-weight: bold;
+    font-size: 12px;
+    color:#626262;
+    display: inline-block;
+    margin-left: 1rem;
+    padding-top:6px 
+}
+.cooker_table{
+    margin-bottom: .5rem
+}
+.cooker_table td{
+    padding:  .2rem .5rem 
+}
+.cooker_title{
+    font-family: Montserrat;
+    font-weight: bold;
+    font-size: 12px;
+    color:#626262;
+    text-align: right;
+    margin-top:2rem
+}
+.cooker_detail{
+    font-family: Montserrat;
+    font-weight: 500;
+    font-size: 12px;
+    color:#626262
+}
+.spec{
+    font-family: Montserrat;
+    font-weight: bold;
+    font-size: 14px;
+    color:#46B61A
+}
+.specP{
+    font-family: Montserrat;
+    font-weight: 500;
+    font-size: 12px;
+    color:#626262
+}
+.bookbut{
+    padding:1rem 2rem;
+    background: #46B61A;
+    border:none;
+    border-radius: 18px;
+    color:white;
+    font-family: Montserrat;
+    font-weight: 500;
+    font-size: 15px;
+}
+.reviewcook{
+    font-family: Montserrat;
+    font-weight: 500;
+    font-size: 12px;
+    color:#B3B3B3;
+    text-align: right
+}

@@ -1,0 +1,7 @@
+/* Hide all steps by default: */
+/* .tab {
+    display: none;
+  } */
+  .login-buttons{
+    border-radius: 20px;
+  }

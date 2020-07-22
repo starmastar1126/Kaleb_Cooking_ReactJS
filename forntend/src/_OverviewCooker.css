@@ -1,0 +1,66 @@
+.OV_cooks{
+    max-width: 1330px;
+    margin: auto
+}
+.OV_searchbar{
+    box-shadow: 0 9px 8px -1px rgba(0,0,0,0.13);
+    position: relative;
+    z-index: 23;
+}
+.OV_cooksearch{
+    margin:2rem 0
+}
+.OV_map{
+    height:22rem;
+    width: 100%;
+    background-image: url('./images/map.png')
+}
+.OV_mapsearch{
+    background: white;
+    width: 100%;
+}
+.mapsearchCO{
+    max-width: 1200px;
+    margin: auto;
+    padding: 1rem 0;
+    display: flow-root;
+}
+.mapsearchs{
+    float: left;
+    font-family: Lato;
+    font-size: 14px;
+    color: #505050;
+}
+.mapresult{
+    float: right;
+    font-family: Lato;
+    font-size: 14px;
+    color: #505050;
+}
+.OVS_containter{
+    max-width: 1330px;
+    margin: auto;
+    /* display: inline-block; */
+    padding: 1rem 0;
+}
+.OVS_i{
+    border: none;
+    background: #E9E9E9;
+    color: #8F8F8F;
+    font-family: 'Segoe UI';
+    font-size: 16px;
+    text-align: center;
+    border-radius: 20px;
+    /* width: 100%; */
+    display: inline-block;
+    margin: 0 .5rem;
+    padding: 5px yes 22px;
+    padding: 11px;
+    width: 14%;
+}
+.ovstitle{
+    font-family: 'Segoe UI';
+    font-size: 18px;
+    width: 6rem;
+    display: inline-block;
+}
